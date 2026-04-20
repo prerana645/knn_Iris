@@ -1,0 +1,19 @@
+# KNN Classification 
+
+# Objective
+Implement K-Nearest Neighbors (KNN) algorithm for classification.
+
+# Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+# Results
+- Best K = 5
+- Achieved high accuracy on test data
+
+# Conclusion
+KNN performs well for small datasets but depends heavily on K value and scaling.
+Dataset link- https://www.kaggle.com/datasets/uciml/iris
